@@ -29,3 +29,15 @@
  {
       color: orange;
  }
+ .book
+ {
+     cursor: pointer;
+ }
+ .book hr
+ {
+     margin-bottom: 10px;
+ }
+ #contact iframe
+ {
+     width: 100%;
+ }
